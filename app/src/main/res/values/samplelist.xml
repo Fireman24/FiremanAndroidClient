@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>Приезд машины ПМ-8888</item>
+        <item>Начато тушение</item>
+        <item>Действие ...</item>
+    </string-array>
+</resources>
